@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>become ${1:val} {$2:beh}</string>
+	<key>name</key>
+	<string>Become</string>
+	<key>scope</key>
+	<string>source.prosopon</string>
+	<key>tabTrigger</key>
+	<string>become</string>
+	<key>uuid</key>
+	<string>2EE90B68-11FB-421A-97F6-89288E286726</string>
+</dict>
+</plist>

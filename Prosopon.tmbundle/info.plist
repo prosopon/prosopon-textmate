@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Prosopon</string>
+	<key>ordering</key>
+	<array>
+		<string>70E82039-95CC-480D-94E2-549F6E0C597E</string>
+		<string>3981F17F-10D2-4CDA-AEDA-AA8160AC10B5</string>
+		<string>84A7796E-DAAD-4623-A64C-1CD0E96F67D5</string>
+		<string>2EE90B68-11FB-421A-97F6-89288E286726</string>
+		<string>0873D72C-6F83-493F-9103-8FDE8E8DD45E</string>
+	</array>
+	<key>uuid</key>
+	<string>E5B66C73-F5D3-44A3-89F7-ED3351121A35</string>
+</dict>
+</plist>
