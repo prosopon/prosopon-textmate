@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>saveActiveFile</string>
+	<key>command</key>
+	<string>#!/bin/bash
+
+echo  ${TM_FILEPATH}
+
+cd /Users/mattbierner/Projects/prosopon/prosopon-interpreter
+./prosopon ${TM_FILEPATH}</string>
+	<key>input</key>
+	<string>document</string>
+	<key>keyEquivalent</key>
+	<string>@r</string>
+	<key>name</key>
+	<string>Run</string>
+	<key>output</key>
+	<string>showAsHTML</string>
+	<key>scope</key>
+	<string>source.prosopon</string>
+	<key>uuid</key>
+	<string>2F16ADDD-A201-4F7A-8752-8302AE6B0A11</string>
+</dict>
+</plist>
