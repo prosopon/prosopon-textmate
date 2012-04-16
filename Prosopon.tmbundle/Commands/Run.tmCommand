@@ -7,8 +7,6 @@
 	<key>command</key>
 	<string>#!/bin/bash
 
-echo  ${TM_FILEPATH}
-
 cd /Users/mattbierner/Projects/prosopon/prosopon-interpreter
 ./prosopon ${TM_FILEPATH}</string>
 	<key>input</key>
